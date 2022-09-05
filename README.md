@@ -1,10 +1,3 @@
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&lines=Hello,;+This+is+DAN...;Welcome!&center=true&size=18&color=FFFFFFBE">
-  </a>
-</h1>
-
 #### Portfolio and Contact
 
 [![BLOG](https://img.shields.io/website?label=danfarisato.com&style=for-the-badge&url=https://danfarisato.com)](https://danfarisato.com)
@@ -27,6 +20,8 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img align="center" alt="shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 <br/>
 
