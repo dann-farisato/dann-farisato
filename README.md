@@ -1,4 +1,4 @@
-* 🖥️  See my portfolio at [danfarisato.com](http://danfarisato.com)
+* PORTFOLIO [danfarisato.com](http://danfarisato.com)
 
 ### Socials  
 
