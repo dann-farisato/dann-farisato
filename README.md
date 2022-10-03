@@ -1,4 +1,7 @@
-Hi 👋 My name is Dan Farisato =============================  fullstack Dev -------------  
+Hi 👋 My name is Dan Farisato 
+=============================  
+fullstack Dev 
+-------------  
 * 🌍  I'm based in Ireland 
 * Portfolio: [danfarisato.com](http://danfarisato.com)
 
