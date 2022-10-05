@@ -21,6 +21,7 @@ fullstack Dev
 <a href="http://www.github.com/dann-farisato"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dann-farisato&stroke=64748b&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=64748b&currStreakLabel=6366f1&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 <br/>
 <a href="https://github.com/dann-farisato" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dann-farisato&langs_count=10&title_color=6366f1&text_color=64748b&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dann-farisato)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills  
 
