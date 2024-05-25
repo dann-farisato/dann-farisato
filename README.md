@@ -1,7 +1,22 @@
-Hi 👋 My name is Dan Farisato 
-=============================  
-fullstack Dev 
--------------  
+Dan Farisato 
+Passionate Full Stack Developer | Creative Software Engineer
+
+Welcome to my GitHub profile! I’m a dedicated Full Stack Developer and Software Engineer with a rich background in design and marketing. My journey in the world of technology is driven by an insatiable curiosity and a relentless desire to innovate.
+
+🚀 About Me
+
+	•	👨‍💻 Full Stack Developer: Skilled in both frontend and backend technologies, creating seamless and efficient applications.
+	•	🎨 Designer: Leveraging my design expertise to craft visually appealing and user-friendly interfaces.
+	•	📈 Marketing Savvy: Understanding the market trends to build products that not only work but also sell.
+	•	🌱 Lifelong Learner: Continuously exploring new technologies and methodologies to stay at the cutting edge.
+
+🔧 Technologies & Tools
+
+	•	Frontend: React, Angular, Vue.js, HTML5, CSS3, JavaScript, TypeScript
+	•	Backend: Node.js, Express.js, Django, Flask, Ruby on Rails
+	•	Database: MySQL, PostgreSQL, MongoDB, SQLite
+	•	DevOps: Docker, Kubernetes, Jenkins, AWS, Azure
+	•	Other: Git, GitHub, CI/CD, RESTful APIs, GraphQL
 * 🌍  I'm based in Ireland 
 * Portfolio: [danfarisato.com](http://danfarisato.com)
 
