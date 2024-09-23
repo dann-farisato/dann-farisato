@@ -1,7 +1,7 @@
 Dan Farisato 
 Passionate Full Stack Developer | Creative Software Engineer
 
-Welcome to my GitHub profile! I’m a dedicated Full Stack Developer and Software Engineer with a rich background in design and marketing. My journey in the world of technology is driven by an insatiable curiosity and a relentless desire to innovate.
+Welcome! I’m a Full Stack Developer and Software Engineer with a rich background in design and marketing. My journey in the world of technology is driven by an insatiable curiosity and a relentless desire to innovate.
 
 🚀 About Me
 
