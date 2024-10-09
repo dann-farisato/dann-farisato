@@ -1,7 +1,4 @@
-Dan Farisato 
-Passionate Full Stack Developer | Creative Software Engineer
-
-Welcome! I’m a Full Stack Developer and Software Engineer with a rich background in design and marketing. My journey in the world of technology is driven by an insatiable curiosity and a relentless desire to innovate.
+Welcome! I’m a Full Stack Developer and Software Engineer with a rich background in Javascript, design and marketing. My journey in the world of technology is driven by an insatiable curiosity and a relentless desire to innovate.
 
 🚀 About Me
 
@@ -13,9 +10,9 @@ Welcome! I’m a Full Stack Developer and Software Engineer with a rich backgrou
 🔧 Technologies & Tools
 
 	•	Frontend: React, Angular, Vue.js, HTML5, CSS3, JavaScript, TypeScript
-	•	Backend: Node.js, Express.js, Django, Flask, Ruby on Rails
+	•	Backend: Node.js, Express.js, Python, Java, Spring
 	•	Database: MySQL, PostgreSQL, MongoDB, SQLite
-	•	DevOps: Docker, Kubernetes, Jenkins, AWS, Azure
+	•	DevOps: Docker, Kubernetes, Jenkins, AWS, Github Action
 	•	Other: Git, GitHub, CI/CD, RESTful APIs, GraphQL
 * 🌍  I'm based in Ireland 
 * Portfolio: [danfarisato.com](http://danfarisato.com)
