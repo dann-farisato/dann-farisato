@@ -33,8 +33,6 @@ Currently based in Ireland, I love translating ideas into production-ready syste
 - DX-focused: declarative configuration, reusable automations, and integration with modern stacks.
 - Designed for teams that want to move from scattered scripts to an “operating system” for automation.
 
-🔗 `raven-os` • *(add repository link here)*
-
 ---
 
 ### 🧠 K-System
@@ -44,8 +42,6 @@ Currently based in Ireland, I love translating ideas into production-ready syste
 - Integrates multiple sources (APIs, services, databases) into a coherent model for agents.
 - Helps keep consistency across multiple flows, bots, workers, and applications.
 
-🔗 `k-system` • *(add repository link here)*
-
 ---
 
 ### 🕹️ Raven Orchestrator
@@ -54,8 +50,6 @@ Currently based in Ireland, I love translating ideas into production-ready syste
 - Coordinates multiple services, queues, and async tasks with visibility and control.
 - Ideal for data pipelines, business automations, and AI agent orchestration.
 - Designed to run well in cloud-native environments with CI/CD and containers.
-
-🔗 `raven-orchestrator` • *(add repository link here)*
 
 ---
 
