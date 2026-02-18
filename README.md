@@ -170,40 +170,6 @@ Currently based in Ireland, I love translating ideas into production-ready syste
 </p>
 
 ---
-## 📊 GitHub Activity
-
-<p align="center">
-  <!-- General Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=dann-farisato&show_icons=true&count_private=true&title_color=6366f1&text_color=64748b&icon_color=6366f1&bg_color=0f172a&hide_border=true" 
-    alt="dann-farisato's GitHub stats" 
-  />
-</p>
-
-<p align="center">
-  <!-- Streak -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=dann-farisato&stroke=64748b&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=64748b&currStreakLabel=6366f1&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" 
-    alt="dann-farisato's GitHub streak" 
-  />
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dann-farisato&langs_count=10&title_color=6366f1&text_color=64748b&icon_color=6366f1&bg_color=0f172a&hide_border=true&layout=compact" 
-    alt="Top Languages" 
-  />
-</p>
-
-<p align="center">
-  <!-- Contributions Tiles Style -->
-  <img 
-    src="https://github-contributions.vercel.app/api/v1/dann-farisato?tileSize=12&theme=github-dark&bg=0f172a" 
-    alt="dann-farisato's GitHub contributions" 
-  />
-</p>
-
 
 ## 📫 Let’s Connect
 
