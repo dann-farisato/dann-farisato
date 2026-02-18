@@ -14,13 +14,13 @@
 
 ## 🚀 About
 
-I’m a Full Stack Developer and Software Engineer with a strong background in JavaScript, design and marketing, focused on building products that are not only technically solid, but also usable and sellable.  
+I’m a Full Stack Developer and Software Engineer with a strong background in JavaScript, design, and marketing, focused on building products that are not only technically solid but also usable and sellable.  
 Currently based in Ireland, I love translating ideas into production-ready systems, from UX and UI all the way to infrastructure and automation.
 
-- 🧠 Product-minded engineer with experience bridging tech, design and business.
-- 🎨 Design-oriented: I care about interactions, typography, grids and detail.
-- 📈 Marketing savvy: I think in funnels, positioning and value proposition.
-- 🌱 Always learning: AI, automation, orchestration systems and DX tooling.
+- 🧠 Product-minded engineer bridging tech, design, and business.
+- 🎨 Design-oriented: I care about interactions, typography, grids, and detail.
+- 📈 Marketing-savvy: I think in funnels, positioning, and value propositions.
+- 🌱 Always learning: AI, automation, orchestration systems, and DX tooling.
 
 ---
 
@@ -29,33 +29,33 @@ Currently based in Ireland, I love translating ideas into production-ready syste
 ### 🦅 raven-os
 > Developer-first OS for modern automation and AI-native workflows.
 
-- Modular architecture to orchestrate agents, services and tools em um único ecossistema.
-- Focado em DX: configuração declarativa, automações reusáveis e integração com stacks modernas.
-- Pensado para times que querem passar de scripts soltos para um “operating system” de automação.
+- Modular architecture to orchestrate agents, services, and tools in a single ecosystem.
+- DX-focused: declarative configuration, reusable automations, and integration with modern stacks.
+- Designed for teams that want to move from scattered scripts to an “operating system” for automation.
 
-🔗 `raven-os` • *(adicionar link do repositório aqui)*
+🔗 `raven-os` • *(add repository link here)*
 
 ---
 
 ### 🧠 K-System
 > Knowledge & Context System powering raven-os.
 
-- Camada de conhecimento que centraliza contexto, configurações e estado de automações.
-- Integra fontes diferentes (APIs, serviços, bancos) em um modelo coerente para agentes.
-- Ajuda a manter consistência entre múltiplos fluxos, bots, workers e aplicações.
+- Knowledge layer that centralizes context, configurations, and automation state.
+- Integrates multiple sources (APIs, services, databases) into a coherent model for agents.
+- Helps keep consistency across multiple flows, bots, workers, and applications.
 
-🔗 `k-system` • *(adicionar link do repositório aqui)*
+🔗 `k-system` • *(add repository link here)*
 
 ---
 
 ### 🕹️ Raven Orchestrator
-> Orquestrador para workflows complexos, jobs e agentes.
+> Orchestrator for complex workflows, jobs, and agents.
 
-- Coordena múltiplos serviços, filas e tarefas assíncronas de forma observável.
-- Ideal para pipelines de dados, automações de negócio e orquestração de agentes de IA.
-- Pensado para rodar bem em ambientes cloud-native com CI/CD e contêineres.
+- Coordinates multiple services, queues, and async tasks with visibility and control.
+- Ideal for data pipelines, business automations, and AI agent orchestration.
+- Designed to run well in cloud-native environments with CI/CD and containers.
 
-🔗 `raven-orchestrator` • *(adicionar link do repositório aqui)*
+🔗 `raven-orchestrator` • *(add repository link here)*
 
 ---
 
@@ -80,20 +80,20 @@ Currently based in Ireland, I love translating ideas into production-ready syste
 - Docker • Kubernetes  
 - Jenkins • GitHub Actions  
 - AWS  
-- CI/CD, observability & deployment automation
+- CI/CD, observability, and deployment automation
 
 ### Other
 - RESTful APIs • GraphQL  
 - Git • GitHub  
-- Design systems, component libraries & UX/UI
+- Design systems, component libraries, and UX/UI
 
 ---
 
-## 🌍 Where I Am
+## 🌍 Location
 
 - 🇮🇪 Based in Ireland  
-- 🌐 Remote-friendly, acostumado a colaborar com times distribuídos  
-- 💬 Idiomas: Português, Inglês
+- 🌐 Remote-friendly and experienced with distributed teams  
+- 💬 Languages: Portuguese, English
 
 ---
 
@@ -170,6 +170,40 @@ Currently based in Ireland, I love translating ideas into production-ready syste
 </p>
 
 ---
+## 📊 GitHub Activity
+
+<p align="center">
+  <!-- General Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=dann-farisato&show_icons=true&count_private=true&title_color=6366f1&text_color=64748b&icon_color=6366f1&bg_color=0f172a&hide_border=true" 
+    alt="dann-farisato's GitHub stats" 
+  />
+</p>
+
+<p align="center">
+  <!-- Streak -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=dann-farisato&stroke=64748b&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=64748b&currStreakLabel=6366f1&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" 
+    alt="dann-farisato's GitHub streak" 
+  />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dann-farisato&langs_count=10&title_color=6366f1&text_color=64748b&icon_color=6366f1&bg_color=0f172a&hide_border=true&layout=compact" 
+    alt="Top Languages" 
+  />
+</p>
+
+<p align="center">
+  <!-- Contributions Tiles Style -->
+  <img 
+    src="https://github-contributions.vercel.app/api/v1/dann-farisato?tileSize=12&theme=github-dark&bg=0f172a" 
+    alt="dann-farisato's GitHub contributions" 
+  />
+</p>
+
 
 ## 📫 Let’s Connect
 
@@ -177,4 +211,4 @@ Currently based in Ireland, I love translating ideas into production-ready syste
 - 🐦 Twitter: [@danfarisato](https://www.twitter.com/danfarisato)
 - 🌐 Portfolio: [danfarisato.com](https://danfarisato.com)
 
-If you’re building something at the intersection of web, automation and AI, I’d love to hear about it.
+If you’re building something at the intersection of web, automation, and AI, I’d love to hear about it.
